@@ -12,7 +12,7 @@ Estudando para ser um Desenvolvedor BackEnd;
 
 💻 Cursando Análise e Desenvolvimento de Sistemas;
 
-📚 Estudando Python3 | MySQL |;
+📚 Estudando Python3 | Django | MySQL ;
 
 🧰 Utilizando Git/GitHub, Visual Studio Code ;
 
@@ -44,11 +44,4 @@ Estudando para ser um Desenvolvedor BackEnd;
 </div>
 
 
-<div align = "left">
-<a href = "https://github.com/CalebeMito">
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalebeMito&show_icons=true&theme=tokyonight&count_private=true"/>
-</a>
-<a href = "https://github.com/CalebeMito">
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=CalebeMito&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
-</a>
-</div>
+
