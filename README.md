@@ -10,7 +10,7 @@
 
 Estudando para ser um Desenvolvedor BackEnd;
 
-💻 Cursando Análise e Desenvolvimento de Sistemas;
+💻 análise e Desenvolvimento de Sistemas (CLARETIANO) | MBA software engineer (USP);
 
 📚 Estudando Python3 | Django | MySQL ;
 
